@@ -1,0 +1,1 @@
+The code located in the project is designed for the Raspberry Pi 4 8GB 32bit version using thonny python IDE. Errors may arise when using a different Raspberry Pi model or different IDE or Bit Version.
